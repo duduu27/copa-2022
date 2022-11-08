@@ -1,0 +1,34 @@
+body p{
+	font-size: 20px
+}
+#cabecalho{
+	height: 150px;
+	background: orange;
+	width: 90%;
+	margin: 0 auto;
+}
+#menu{
+	height: 500px;
+	width: 300px;
+	background: greenyellow;
+	float: left;
+	margin-left: 60px;
+	margin-top: 10px;
+}
+#principal{
+	height: 500px;
+	width: 800px;
+	background: lightblue;
+	float: left;
+}
+#lado{
+	height: 500px;
+	width: 300px;
+	background: lightcoral;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#radape{
+	
+}
